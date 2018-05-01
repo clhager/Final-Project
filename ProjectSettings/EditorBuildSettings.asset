@@ -4,4 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Start Menu.unity
+    guid: 9b901c6f318a24641a764496ade16453
+  - enabled: 1
+    path: Assets/Scene/Level3.unity
+    guid: cf871cf557cba4b3c966408a118c7086
+  - enabled: 1
+    path: Assets/Scene/Countryside.unity
+    guid: e58e0989018a34786aafd05640076ede
+  - enabled: 1
+    path: Assets/Scene/Outpost.unity
+    guid: 8ffc034e45c62431baca356911ca0b33
+  - enabled: 1
+    path: Assets/Scene/Villages.unity
+    guid: 5a34e2eebe7d243f9b4d187edcddd809
+  - enabled: 1
+    path: Assets/Scene/Castle.unity
+    guid: 315230da7672d4707932c98ef860ff6b
